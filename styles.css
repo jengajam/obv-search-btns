@@ -1,0 +1,24 @@
+div.obvbg-images {
+  background-color: #4286f480;
+  transition: background-color 0.5s ease;
+}
+
+div.obvbg-video {
+  background-color: #DB443780;
+  transition: background-color 0.5s ease;
+}
+
+div.obvbg-maps {
+  background-color: #F4B40080;
+  transition: background-color 0.5s ease;
+}
+
+div.obvbg-shop {
+  background-color: #0F9D5880;
+  transition: background-color 0.5s ease;
+}
+
+div.obvbg-other {
+  background-color: #a0a0a050;
+  transition: background-color 0.5s ease;
+}
