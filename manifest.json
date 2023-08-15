@@ -9,6 +9,10 @@
     "css": ["styles.css"],
     "js": ["jquery-3.7.0.min.js", "content.js"],
     "matches": ["https://www.google.com/*"]
-  }]
- 
+  }],
+
+  "homepage_url": "https://github.com/jengajam/obv-search-btns/",
+  "icons": {
+    "128": "icon128.png"
+  }
 }
