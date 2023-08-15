@@ -9,4 +9,4 @@ I grew exceptionally tired of Google's new UI that robs the search filter button
 - Shopping
 - News
 
-The extension does not alter anything else and is usable specfically on google.com for now. Due to its simple nature, I do not foreesee any major issues aside from [installing it as a third-party extension](https://www.cnet.com/tech/services-and-software/how-to-install-chrome-extensions-manually/). 
+The extension does not alter anything else and is usable specfically on google.com for now. This has been tested on Chrome and Edge, signed in and out. Due to its simple nature, I do not foreesee any major issues aside from [installing it as a third-party extension](https://www.cnet.com/tech/services-and-software/how-to-install-chrome-extensions-manually/). 
