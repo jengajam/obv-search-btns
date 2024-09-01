@@ -1,7 +1,7 @@
 $( window ).on( "load", function() {
-    $('[role="navigation"]').find("span:contains('Images')").parent('div.GKS7s').addClass("obvbg-images");
-    $('[role="navigation"]').find("span:contains('Videos')").parent('div.GKS7s').addClass("obvbg-video");
-    $('[role="navigation"]').find("span:contains('Maps')").parent('div.GKS7s').addClass("obvbg-maps");
-    $('[role="navigation"]').find("span:contains('Shopping')").parent('div.GKS7s').addClass("obvbg-shop");
-    $('[role="navigation"]').find("span:contains('News')").parent('div.GKS7s').addClass("obvbg-news");
+    $('[role="listitem"]').find("div:contains('Images')").addClass("obvbg-images");
+    $('[role="listitem"]').find("div:contains('Videos')").addClass("obvbg-video");
+    $('[role="listitem"]').find("div:contains('Maps')").addClass("obvbg-maps");
+    $('[role="listitem"]').find("div:contains('Shopping')").addClass("obvbg-shop");
+    $('[role="listitem"]').find("div:contains('News')").addClass("obvbg-news");
 });
